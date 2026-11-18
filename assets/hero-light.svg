@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="t">
+<title id="t">model-routing: the top-tier main session (Mythos, Fable) decides and accepts; four Opus subagents read, code, debug and review.</title>
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.tx { fill: #1f1e1c; }
+.mu { fill: #6f6d66; }
+.clay { fill: #b3532f; }
+.sage { fill: #5f7347; }
+
+.eyebrow { font-size: 22px; letter-spacing: 4px; }
+.title { font-size: 76px; font-weight: 700; letter-spacing: -1.5px; }
+.tag { font-size: 28px; }
+.node { font-size: 24px; font-weight: 600; }
+.sub { font-size: 22px; }
+.cap { font-size: 22px; }
+</style>
+<rect x="0.5" y="0.5" width="1279" height="419" rx="20" fill="#faf9f5" stroke="#e6e3d9" stroke-width="1"/>
+<text class="mono eyebrow mu" x="72" y="104">CLAUDE CODE SKILL</text>
+<text class="sans title tx" x="68" y="190">model-routing</text>
+<text class="sans tag mu" x="72" y="250">The top-tier model decides.</text>
+<text class="sans tag mu" x="72" y="290">Opus does the work.</text>
+<text class="sans tag mu" x="72" y="330">The week stays on pace.</text>
+<g fill="none" stroke="#c4bfb2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M880 210 H902 C946.0 210 946.0 93 990 93"/>
+<path d="M880 210 H902 C946.0 210 946.0 171 990 171"/>
+<path d="M880 210 H902 C946.0 210 946.0 249 990 249"/>
+<path d="M880 210 H902 C946.0 210 946.0 327 990 327"/>
+</g>
+<rect x="668" y="160.0" width="212" height="100" rx="14" fill="#ffffff" stroke="#dedacf" stroke-width="1.5"/>
+<circle cx="690" cy="192" r="5" fill="#b3532f"/>
+<text class="sans node tx" x="704" y="200">Main session</text>
+<text class="sans sub mu" x="704" y="232">Mythos · Fable</text>
+<text class="mono cap clay" x="670" y="298.0">decide · accept</text>
+<rect x="990" y="69.0" width="120" height="48" rx="12" fill="#ffffff" stroke="#dedacf" stroke-width="1.5"/>
+<circle cx="1012" cy="93" r="5" fill="#5f7347"/>
+<text class="sans node tx" x="1026" y="101">Opus</text>
+<text class="mono cap sage" x="1132" y="100">read</text>
+<rect x="990" y="147.0" width="120" height="48" rx="12" fill="#ffffff" stroke="#dedacf" stroke-width="1.5"/>
+<circle cx="1012" cy="171" r="5" fill="#5f7347"/>
+<text class="sans node tx" x="1026" y="179">Opus</text>
+<text class="mono cap sage" x="1132" y="178">code</text>
+<rect x="990" y="225.0" width="120" height="48" rx="12" fill="#ffffff" stroke="#dedacf" stroke-width="1.5"/>
+<circle cx="1012" cy="249" r="5" fill="#5f7347"/>
+<text class="sans node tx" x="1026" y="257">Opus</text>
+<text class="mono cap sage" x="1132" y="256">debug</text>
+<rect x="990" y="303.0" width="120" height="48" rx="12" fill="#ffffff" stroke="#dedacf" stroke-width="1.5"/>
+<circle cx="1012" cy="327" r="5" fill="#5f7347"/>
+<text class="sans node tx" x="1026" y="335">Opus</text>
+<text class="mono cap sage" x="1132" y="334">review</text>
+</svg>

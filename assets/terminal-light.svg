@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="407" viewBox="0 0 1280 407" role="img" aria-labelledby="t">
+<title id="t">Terminal output of pace.py: weekly bar 46% used against a 50% line (on pace); top-tier bar 70% used, 20 points ahead, projected 140%. Verdict: BACK_OFF_TOP.</title>
+<style>
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.tx { fill: #1f1e1c; }
+.mu { fill: #6f6d66; }
+.clay { fill: #b3532f; }
+.sage { fill: #5f7347; }
+
+.term { font-size: 23px; white-space: pre; }
+.wtitle { font-size: 22px; font-weight: 500; }
+</style>
+<defs><clipPath id="win"><rect x="0.5" y="0.5" width="1279" height="406" rx="20"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="1279" height="406" rx="20" fill="#faf9f5" stroke="#e6e3d9" stroke-width="1"/>
+<rect x="0" y="0" width="1280" height="60" fill="#ffffff" clip-path="url(#win)"/>
+<line x1="0" y1="59.5" x2="1280" y2="59.5" stroke="#e6e3d9" stroke-width="1"/>
+<rect x="0.5" y="0.5" width="1279" height="406" rx="20" fill="none" stroke="#e6e3d9" stroke-width="1"/>
+<circle cx="38" cy="30.0" r="7" fill="#dcd8cd"/>
+<circle cx="64" cy="30.0" r="7" fill="#dcd8cd"/>
+<circle cx="90" cy="30.0" r="7" fill="#dcd8cd"/>
+<text class="sans wtitle mu" x="640.0" y="38.0" text-anchor="middle">pace.py</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="116" data-line="0"><tspan class="mu">$</tspan> python3 scripts/pace.py --weekly 46 --top 70 --resets-at 2026-11-25T05:00:00Z</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="151" data-line="1">window: 50.0% elapsed, resets in 3d 12h</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="186" data-line="2"><tspan class="mu">bar        used  line  delta  projected</tspan></text>
+<text class="mono term tx" xml:space="preserve" x="48" y="221" data-line="3">weekly      46%   50%     -4        92%</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="256" data-line="4">top-tier    70%   50%    <tspan class="clay">+20</tspan>       140%</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="291" data-line="5">verdict: <tspan class="clay">BACK_OFF_TOP</tspan></text>
+<text class="mono term tx" xml:space="preserve" x="48" y="326" data-line="6">action:  Top-tier is burning ahead of the line. Main session delegates more</text>
+<text class="mono term tx" xml:space="preserve" x="48" y="361" data-line="7">         to Opus and keeps its context small. No top-tier subagents.</text>
+</svg>
